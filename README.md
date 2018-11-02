@@ -1,6 +1,6 @@
 # docker-tinker
 
-Docker image to run Jupyter Notebooks on the Tinker workbench.  Based on jupyter/scipy-notebook this 
+Dockerfile to create a docker image to run Jupyter Notebooks on the Tinker workbench.  Based on jupyter/scipy-notebook this 
 adds modules for text processing and geolocation.  
 
 Run it with, e.g.:
